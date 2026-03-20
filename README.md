@@ -57,8 +57,8 @@ Edit config.sh:
 PROJECT_DIR="/home/data/wes/batch"
 SCRIPT_DIR="/path/to/pipeline"
 ```
-Important:
-PROJECT_DIR = working directory for the project
+Important:\n
+PROJECT_DIR = working directory for the project\n
 SCRIPT_DIR = pipeline installation path (do not change frequently)
 
 ### 3. Dry Run
@@ -87,6 +87,6 @@ Check HPC scheduler logs and permissions.
 Ensure consistent chromosome naming (chr1 vs 1).
 
 # Author
-Deepak Bharti
-Clinical Bioinformatician
+Deepak Bharti\n
+Clinical Bioinformatician\n
 RCSI, DUBLIN
